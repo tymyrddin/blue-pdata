@@ -68,7 +68,6 @@ The Internet is rife with adversaries that are after our identity and informatio
    :caption: Data in rest
 
    docs/data/README.md
-   docs/data/*
 
 .. toctree::
    :glob:
