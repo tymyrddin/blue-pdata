@@ -13,10 +13,6 @@ Operating systems and applications can always be reinstalled, but your data is u
 * You may wish to shred and delete data and not have it found by anyone.
 * Keep your authentication data in a password manager (on a local usb stick)
 
-## Fail
-
-* [';--have i been pwned?](../hibp.md)
-
 ## Workstations and PC's
 
 * [MacOS (Catalina) data](macos-mitigations:docs/data/README)
@@ -28,3 +24,7 @@ Operating systems and applications can always be reinstalled, but your data is u
 * [Android (Galaxy 5,22,50) data](android-mitigations:docs/data/README)
 * [iOS (7-10) data](ios-mitigations:docs/data/README)
 
+## Related attack trees
+
+* [Enumeration](attack-trees:docs/enumeration/README)
+* [System](attack-trees:docs/system/README)

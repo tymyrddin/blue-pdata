@@ -15,3 +15,9 @@ headers to packets or other revealing data that can be correlated.
 * A big threat to your anonymity when using a VPN service is that of DNS leaks. And the combination of [Fail Open](vpn-fail-open.md) and a [DNS Leak](dns-leaks.md) is the worst.
 * Many Internet Service Providers (ISPs) use DNS redirection to take over a user’s DNS requests for the collection of statistics and returning ads when users access an unknown domain - Some governments use DNS hijacking for censorship, redirecting users to government-authorised sites. Use a [free, alternative DNS service](dns-leaks.md).
 
+## Related attack trees
+
+* [Scanning](attack-trees:docs/scanning/README)
+* [Network](attack-trees:docs/network/README)
+* [Application](attack-trees:docs/application/README)
+* [Deanonymisation Threat model](https://tymyrddin.github.io/da-threat-model/)

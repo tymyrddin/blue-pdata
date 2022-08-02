@@ -30,6 +30,7 @@ The Internet is rife with adversaries that are after our identity and informatio
    docs/browsing/user-agent.md
    docs/browsing/cookies.md
    docs/browsing/FLoC.md
+   docs/browsing/aif.md
 
 .. toctree::
    :glob:
@@ -64,6 +65,7 @@ The Internet is rife with adversaries that are after our identity and informatio
    docs/email/email-use.md
    docs/email/check-mail.md
    docs/email/gnupg.md
+   docs/email/hibp.md
 
 .. toctree::
    :glob:

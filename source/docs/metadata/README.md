@@ -23,5 +23,7 @@ This type of metadata can be useful, but maybe you do not want to disclose this 
 * [Use a hex editor](hexeditors.md) for getting in the corners
 * [Edit exif metadata in images](metadata-images.md)
 
+## Related attack trees
 
-
+* [Reconnaissance](attack-trees:docs/reconnaissance/README)
+* [Deanonymisation Threat model](https://tymyrddin.github.io/da-threat-model/)
