@@ -7,6 +7,9 @@ has a legal internet IP address. For example, a VPN can use PPTP to encapsulate 
 such as the Internet. Most tunnelling protocols operate at layer 4, which means they are implemented as a protocol 
 that replaces something like TCP or UDP. This concept can be used for anonymising.
 
-Various types of tunnelling are useful for [circumventing censorship] as well, like [SSH](ssh.md), [VPN](vpn.md), 
-[mixnets](Digital-mixing.md) like [Tor](tor.md) and [I2P](I2P.md), and [chaining anonymising gateways](Chaining.md).
+Various types of tunnelling are useful for [circumventing censorship](../Circumventing-censorship.md): 
+
+* [SSH](ssh.md) and [VPN](vpn.md), 
+* [Mixnets](digital-mixing.md) like [Tor](tor.md) and [I2P](i2p.md)
+* [Chaining anonymising gateways](chaining.md).
 

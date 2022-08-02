@@ -10,4 +10,4 @@ When using "private" or "incognito" browsing, your real IP address and location 
 ebsite, ad, and tracker that loads in your browser, and your traffic remains visible to your internet service provider 
 (ISP). ISPs log everything and share the data with many other parties.
 
-It is essential to also use a good [VPN](vpn.md) for basic digital privacy.
+It is essential to also use a good [VPN](../traffic/vpn.md) for basic digital privacy.

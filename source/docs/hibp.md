@@ -1,4 +1,4 @@
-# ';--have i been pwned?
+# ';--have i NOT been pwned?
 
 [';--have i been pwned? (HIBP)](https://haveibeenpwned.com/) is a database of several billion email addresses (and, separately, passwords) that have appeared in a publicly known past data breach. The service creates an SHA-1 hash of the submitted email address and passes the first six characters of that to HIBP's hash range query API. HIBP then returns a range of possible matches, if any, to the six character string, without ever handling the full email address.
 

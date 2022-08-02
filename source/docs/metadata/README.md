@@ -1,4 +1,4 @@
-# Removing metadata from files
+# Introduction
 
 Metadata is data about data. Metadata answers who, what, when, where, why, and how about every facet of the data that is being documented.
 
@@ -18,9 +18,10 @@ This type of metadata can be useful, but maybe you do not want to disclose this 
 
 ## Techniques for metadata removal
 
-* Metadata removal software like the [Metadata Anonymisation Toolkit (MAT)](MAT.md) identifies and removes the metadata contained within a file so it cannot be shared. 
-* [Using a hex editor](Removing-metadata-with-hexeditors.md)
-* [Edit exif metadata in images](Edit-exif-metadata-in-images.md)
+* Metadata removal software like the [Metadata Anonymisation Toolkit (MAT)](mat.md) identifies and removes the metadata contained within a file. 
+* [BleachBit](bleachbit.md) cleans a lot more.
+* [Use a hex editor](hexeditors.md) for getting in the corners
+* [Edit exif metadata in images](metadata-images.md)
 
 
 

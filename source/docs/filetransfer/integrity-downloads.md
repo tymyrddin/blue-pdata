@@ -7,8 +7,8 @@ each transmitted message is accompanied by a numerical value based on the number
 receiving station then applies the same formula to the message and checks to make sure the accompanying numerical 
 value is the same. If not, the receiver can assume that the message has been garbled (or was altered).
 
-* [Linux: ](linux-pc-mitigations:docs/opsec/integrity-downloads)
+## Workstations and PC's
 
-## Articles
-
+* [Linux: Check integrity of downloads](linux-pc-mitigations:docs/opsec/integrity-downloads)
+* [Windows: Check integrity of downloads](windows-pc-mitigations:docs/opsec/integrity-downloads)
 * [AMFI: checking file integrity on your Mac](https://eclecticlight.co/2018/12/29/amfi-checking-file-integrity-on-your-mac/)

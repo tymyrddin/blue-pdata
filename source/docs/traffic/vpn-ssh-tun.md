@@ -1,4 +1,4 @@
-# Creating a secure VPN with SSH and tun
+# Creating a VPN with SSH and tun
 
 Not all programs have the ability to use a SOCKS proxy, while what is really needed is an all-encompassing proxy, one that just takes all outgoing and incoming traffic and sends it over that secure encrypted link. In effect, a secure [VPN](vpn.md).
 

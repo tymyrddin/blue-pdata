@@ -23,7 +23,13 @@ The Internet is rife with adversaries that are after our identity and informatio
    :caption: Safer browsing
 
    docs/browsing/README.md
-   docs/browsing/*
+   docs/browsing/browsers.md
+   docs/browsing/private-browsing.md
+   docs/browsing/browser-config.md
+   docs/browsing/browser-plugins.md
+   docs/browsing/user-agent.md
+   docs/browsing/cookies.md
+   docs/browsing/FLoC.md
 
 .. toctree::
    :glob:
@@ -32,7 +38,20 @@ The Internet is rife with adversaries that are after our identity and informatio
    :caption: Anonymising traffic
 
    docs/traffic/README.md
-   docs/traffic/*
+   docs/traffic/tunnelling.md
+   docs/traffic/ssh.md
+   docs/traffic/vpn.md
+   docs/traffic/vpn-fail-open.md
+   docs/traffic/dns-leaks.md
+   docs/traffic/digital-mixing.md
+   docs/traffic/tor.md
+   docs/traffic/i2p.md
+   docs/traffic/chaining.md
+   docs/traffic/vpn-ssh-tun.md
+   docs/traffic/change-mac.md
+   docs/traffic/renew-lease.md
+   docs/traffic/change-nick.md
+   docs/traffic/edit-hosts-file.md
 
 .. toctree::
    :glob:
@@ -41,7 +60,10 @@ The Internet is rife with adversaries that are after our identity and informatio
    :caption: Securing email
 
    docs/email/README.md
-   docs/email/*
+   docs/email/email-services.md
+   docs/email/email-use.md
+   docs/email/check-mail.md
+   docs/email/gnupg.md
 
 .. toctree::
    :glob:
@@ -59,7 +81,10 @@ The Internet is rife with adversaries that are after our identity and informatio
    :caption: File transfer
 
    docs/filetransfer/README.md
-   docs/filetransfer/*
+   docs/filetransfer/file-sharing-services.md
+   docs/filetransfer/torrenting.md
+   docs/filetransfer/sftp.md
+   docs/filetransfer/integrity-downloads.md
 
 .. toctree::
    :glob:

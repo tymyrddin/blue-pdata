@@ -11,9 +11,14 @@ connection as you could with a VPN. You must configure each application to use t
 
 SSH tunnels can be created in several ways using different kinds of port forwarding mechanisms. See examples in 
 
+## Workstations and PC's
+
 * [Linux: Use ssh tunnels](linux-pc-mitigations:docs/services/ssh)
 * [macOS: Use ssh tunnels](macos-mitigations:docs/services/ssh)
 * [Windows: Use ssh tunnels](windows-pc-mitigations:docs/services/ssh)
+
+## Phones
+
 * [Android: Use ssh tunnels](android-mitigations:docs/services/ssh)
 * [iOS: Use ssh tunnels](ios-mitigations:docs/services/ssh)
 

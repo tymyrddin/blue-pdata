@@ -1,8 +1,11 @@
 # Edit hosts file
 
-The hosts file is an operating system file on a device that lets you map specific domain names to an IP address. If you want to add new entries to the hosts file, you’ll need the IP address of the server that you want to map a hostname to.
+The hosts file is a system file on a device that lets you map specific domain names to an IP address. If you want 
+to add new entries to the hosts file, you’ll need the IP address of the server that you want to map a hostname to.
 
     XXX.XXX.XXX.XXX some.domain.name 
+
+
 
 ## Linux
 

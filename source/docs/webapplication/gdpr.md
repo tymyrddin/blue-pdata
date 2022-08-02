@@ -1,4 +1,4 @@
-# GDPR compliance
+# Make the site GDPR compliant
 
 Although supposedly going extinct, [third party cookies](../browsing/cookies.md) are still in use by, for example, many Wordpress (feature adding) plugins. Wordpress covers around 30% of the websites on the internet.
 

@@ -1,4 +1,4 @@
-# I2P 
+# Using I2P 
 
 [I2P](https://geti2p.net/en/) is a Distributed Peer to Peer Anonymous Network Layer that is strictly message-based. It allows you to send data between computers running I2P anonymously with multilayer end-to-end encryption. The name I2P derived from Invisible IRC Project (IIP) which was one of FreeNet's sister projects. I2P focuses exclusively on internal communication and not on proxying to the regular internet. I2P uses so-called garlic routing which involves clumping packets together into bigger packets. 
 

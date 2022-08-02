@@ -13,7 +13,10 @@ And any man in the middle of your traffic can see your online behaviour and the 
 
 Using your ISP’s DNS servers as default DNS servers doesn’t do anything for security or privacy.
 
-## Alternatives
+## Workstations and PC's
 
 * [Linux: Use alternative DNS servers](linux-pc-mitigations:docs/services/dns-servers)
+* [Windows:Use alternative DNS servers](windows-pc-mitigations:docs/services/dns-servers)
+* [macOS: Use alternative DNS servers](macos-mitigations:docs/services/dns-servers)
+
 

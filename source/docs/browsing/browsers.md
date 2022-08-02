@@ -1,4 +1,4 @@
-# Secure browsers that protect your privacy
+# Use a secure browser that protects your privacy
 
 * [Brave](https://brave.com/) is fast, secure, and privacy-focused by default. It has a built-in ad blocker and browser fingerprinting 
 protection, while also giving you access to numerous add-ons and extensions.  [Brave opposes FLoC](https://brave.com/why-brave-disables-floc/)

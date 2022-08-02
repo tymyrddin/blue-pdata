@@ -12,7 +12,7 @@ Third-party cookies are going extinct now that many browsers block third-party c
 
 ## Opt out
 
-* This all happens on the local computer, our data wouldn’t get stored on a server, but it lives and runs in the code. No opt-in or opt-out for users as long as one uses Google Chrome. Do not use Google Chrome. Use one of the [alternative browsers](alternatives.md).
+* This all happens on the local computer, our data wouldn’t get stored on a server, but it lives and runs in the code. No opt-in or opt-out for users as long as one uses Google Chrome. Do not use Google Chrome. Use one of the [alternative browsers](browsers.md).
 * If you do have to use Chrome, use [DuckDuckGo's Chrome Extension](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg). It disables FLoC tracking within the browser. Whether Google will disable it in the future or the browser will ignore it remains to be seen.
 
 

@@ -1,7 +1,7 @@
 # Using Tor
 
 Onion routing networks like the Tor network are designed to resist a local adversary, one that can only see a subset 
-of the network and the traffic on it. In a [(sort of) mixnet](Digital-mixing.md) like that, each node will only know 
+of the network and the traffic on it. In a [(sort of) mixnet](digital-mixing.md) like that, each node will only know 
 the relay path in which it is involved, but not the whole path from the source to destination. If being discovered 
 does not have serious consequences for you, we recommend using the 
 [Tor Browser Bundle](https://www.torproject.org/download/).
@@ -31,3 +31,14 @@ Pluggable transports are tools that Tor can use to disguise the traffic it sends
 * FTE (format-transforming encryption) disguises Tor traffic as ordinary web (HTTP) traffic.
 * meek transports all make it look like you are browsing a major web site instead of using Tor. meek-amazon makes it look like you are using Amazon Web Services; meek-azure makes it look like you are using a Microsoft web site; and meek-google makes it look like you are using Google search.
 * Snowflake is an improvement upon Flashproxy. It sends your traffic through WebRTC, a peer-to-peer protocol with built-in NAT punching.
+
+## Workstations and PC's
+
+* [Linux: Use a Tor proxy](linux-pc-mitigations:docs/services/tor-proxy)
+* [macOS: Use a Tor proxy](macos-mitigations:docs/services/tor-proxy)
+* [Windows: Use a Tor proxy](windows-pc-mitigations:docs/services/tor-proxy)
+
+## Phones
+
+* [Android: Use a Tor proxy](android-mitigations:docs/services/tor-proxy)
+* [iOS: Use a Tor proxy](ios-mitigations:docs/services/tor-proxy)
