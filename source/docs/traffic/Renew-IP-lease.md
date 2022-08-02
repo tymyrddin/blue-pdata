@@ -1,7 +1,9 @@
 # Renew IP lease 
 
-A DHCP client can on occasion send information in DHCP requests: hostname, MAC address, operating system, and DHCP version. All operating systems provide their most recent IP address to the DHCP server. 
-If you [change your MAC address](Change-MAC-address.md) to minimise risk, best to also renew the IP leases on the router.
+A DHCP client can on occasion send information in DHCP requests: hostname, MAC address, operating system, and DHCP 
+version. All operating systems provide their most recent IP address to the DHCP server. 
+If you [change your MAC address](Change-MAC-address.md) to minimise risk, best to also renew the IP leases on the 
+router.
 
 ## Linux 
 There are several ways to renew the IP lease, by using command line tools such as `nmcli` or `dhclient`, or by restarting network services.

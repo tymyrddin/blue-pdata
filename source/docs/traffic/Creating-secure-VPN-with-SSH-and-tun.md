@@ -1,8 +1,8 @@
 # Creating a secure VPN with SSH and tun
 
-Not all programs have the ability to use a SOCKS proxy, while what is really needed is an all-encompassing proxy, one that just takes all outgoing and incoming traffic and sends it over that secure encrypted link. In effect, a secure [VPN](VPN.md).
+Not all programs have the ability to use a SOCKS proxy, while what is really needed is an all-encompassing proxy, one that just takes all outgoing and incoming traffic and sends it over that secure encrypted link. In effect, a secure [VPN](vpn.md).
 
-In the situation described in [SSH explained](SSH.md) root access to a remote machine running an ssh server, a SSH client, install the tun kernel module locally and remotely.
+In the situation described in [SSH explained](ssh.md) root access to a remote machine running an ssh server, a SSH client, install the tun kernel module locally and remotely.
 
     # modprobe tun    
     

@@ -9,7 +9,7 @@ Public networks like the internet are extremely vulnerable to traffic monitoring
 * MAC addresses are used in the media access control protocol sub layer of the ISO/OSI model. It can be and often is used by networking equipment to track users. This means that proxy hopping on a network that has already authenticated your hardware is utterly useless. [Changing MAC address](Change-MAC-address.md) is not that hard to do. And if you do, also renew your IP lease.
 * If and when you connect in a public space over a wireless access point, anyone in the area with a packet sniffer can see your "nickname". [It can be changed](Change-nickname.md).
 * Admins of servers and websites need to be aware of [applications](../webapplication/README.md) they use that can give away information about identity and protect file transfer and login identities.
-* Use [tunnelling](Tunnelling.md) software (SSH, VPN or Tor)
-* A big threat to your anonymity when using a VPN service is that of DNS leaks. And the combination of [Fail Open](VPN-fail-open.md) and a [DNS Leak](DNS-leaks.md) is the worst.
-* Many Internet Service Providers (ISPs) use DNS redirection to take over a user’s DNS requests for the collection of statistics and returning ads when users access an unknown domain - Some governments use DNS hijacking for censorship, redirecting users to government-authorised sites. Use a [free, alternative DNS service](DNS-leaks.md).
+* Use [tunnelling](tunnelling.md) software (SSH, VPN or Tor)
+* A big threat to your anonymity when using a VPN service is that of DNS leaks. And the combination of [Fail Open](vpn-fail-open.md) and a [DNS Leak](dns-leaks.md) is the worst.
+* Many Internet Service Providers (ISPs) use DNS redirection to take over a user’s DNS requests for the collection of statistics and returning ads when users access an unknown domain - Some governments use DNS hijacking for censorship, redirecting users to government-authorised sites. Use a [free, alternative DNS service](dns-leaks.md).
 

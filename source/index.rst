@@ -38,7 +38,7 @@ The Internet is rife with adversaries that are after our identity and informatio
    :glob:
    :maxdepth: 1
    :includehidden:
-   :caption: Email
+   :caption: Securing email
 
    docs/email/README.md
    docs/email/*
@@ -88,6 +88,6 @@ The Internet is rife with adversaries that are after our identity and informatio
    docs/webapplication/*
 
 .. toctree::
-   :caption: All mitigations
+   :caption: Links
 
-   Overview <https://tymyrddin.github.io/mitigations/>
+   All mitigations <https://tymyrddin.github.io/mitigations/>
