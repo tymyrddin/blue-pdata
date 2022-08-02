@@ -12,58 +12,13 @@ Manufacturers are required to make sure they keep the last 3 bytes unique.
 Avoiding all of that knowledge, the [MAC address generator tool](https://miniwebtool.com/mac-address-generator/) can 
 generate a valid address for you.
 
-## Linux 
+## Workstations and PC's
 
-With 'macchanger' you can change the MAC address of any Ethernet network device:
+* [Linux: Change MAC Address](linux-pc-mitigations:docs/services/change-mac)
+* [macOS: Change MAC Address](macos-mitigations:docs/services/change-mac)
+* [Windows: Change MAC Address](windows-pc-mitigations:docs/services/change-mac)
 
-Turn off your network interface:
+## Phones
 
-```
-$ sudo ifconfig eth0 down
-```
-
-Use 'macchanger' to randomly generate new MAC address and assign it to ''eth0'' network interface:
-
-```
-$ sudo macchanger -r eth0
-Current MAC: 00:10:4C:25:7A:3F (unknown)
-Faked MAC:   32:cf:cb:6c:63:cd (unknown)
-```
-
-Enable `eth0` network interface and check new MAC address:
-
-```
-$ sudo ifconfig eth0 up
-$ sudo ifconfig eth0
-```
-
-If a specific MAC address, like ''00:0a:95:9d:68:16'', is required:
-
-```
-$ sudo macchanger -m 00:0a:95:9d:68:16 eth0
-```
-
-## Windows
-
-### Device Manager
-
-* In the Device Manager window, click the arrow next to Network adapters.
-* Right-click the adapter for the network card that you want to change.
-* Choose Properties from the menu.
-* Select the Advanced tab. 
-* Select Network Address in the Property displayed list.
-* Type the new MAC address value on the right side. 
-* Press the OK button.
-
-### Control Panel
-
-* In the Control Panel window, search for "network connections" and choose "View network connections" in the results.
-* Right-click on the network connection you want to change. 
-* Choose Properties from the menu.
-* In the Properties window, click the Configure button.
-* In the new Properties window that pops up, select the Advanced tab.
-* Select Network Address in the Property displayed list.
-* Type the new MAC address value on the right side. 
-* Press the OK button.
-
-
+* [Android: Change MAC Address](android-mitigations:docs/services/change-mac)
+* [iOS: Change MAC Address](ios-mitigations:docs/services/change-mac)

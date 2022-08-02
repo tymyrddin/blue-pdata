@@ -35,7 +35,7 @@ and do a graceful restart of OpenLiteSpeed.
 
 # Apache
 
-For Apache web server, add the custom header in your configuration file as:
+For Apache web server, add the custom header in the configuration file:
 
     <IfModule mod_headers.c>
       Header always set Permissions-Policy: interest-cohort=()

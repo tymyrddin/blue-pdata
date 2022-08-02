@@ -38,4 +38,4 @@ I2P is end-to-end encrypted. No information is sent in clear or decrypted. Each 
 
 I2P is available for Windows, Mac OS X, GNU/Linux / BSD / Solaris, Debian /Ubuntu and Android. 
 
-[Download the bundle for your device](https://geti2p.net/en/download) and install. That easy.
+[Download the bundle for your device](https://geti2p.net/en/download) and install. It is that easy.
