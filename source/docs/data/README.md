@@ -17,9 +17,14 @@ Operating systems and applications can always be reinstalled, but your data is u
 
 * [';--have i been pwned?](../hibp.md)
 
-## Related
+## Workstations and PC's
 
 * [MacOS (Catalina) data](macos-mitigations:docs/data/README)
 * [Windows 10 data](windows-pc-mitigations:docs/data/README)
-* [GNU/Linux data](linux-pc-mitigations:docs/data/README)
+* [GNU/Linux (Debian/Ubuntu 22.04) data](linux-pc-mitigations:docs/data/README)
+
+## Phones
+
+* [Android (Galaxy 5,22,50) data](android-mitigations:docs/data/README)
+* [iOS (7-10) data](ios-mitigations:docs/data/README)
 
