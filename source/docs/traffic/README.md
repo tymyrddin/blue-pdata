@@ -18,6 +18,6 @@ headers to packets or other revealing data that can be correlated.
 ## Related attack trees
 
 * [Scanning](attack-trees:docs/scanning/README)
-* [Network](attack-trees:docs/network/README)
+* [Network](https://tymyrddin.github.io/red-network/)
 * [Application](attack-trees:docs/application/README)
 * [Deanonymisation Threat model](https://tymyrddin.github.io/da-threat-model/)
