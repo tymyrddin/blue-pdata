@@ -9,6 +9,6 @@ value is the same. If not, the receiver can assume that the message has been gar
 
 ## Workstations and PC's
 
-* [Linux: Check integrity of downloads](linux-pc-mitigations:docs/opsec/integrity-downloads)
-* [Windows: Check integrity of downloads](windows-pc-mitigations:docs/opsec/integrity-downloads)
+* [Linux: Check integrity of downloads](blue-linux:docs/opsec/integrity-downloads)
+* [Windows: Check integrity of downloads](blue-windows:docs/opsec/integrity-downloads)
 * [AMFI: checking file integrity on your Mac](https://eclecticlight.co/2018/12/29/amfi-checking-file-integrity-on-your-mac/)

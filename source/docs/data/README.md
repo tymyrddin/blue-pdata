@@ -15,16 +15,11 @@ Operating systems and applications can always be reinstalled, but your data is u
 
 ## Workstations and PC's
 
-* [MacOS (Catalina) data](macos-mitigations:docs/data/README)
-* [Windows 10 data](windows-pc-mitigations:docs/data/README)
-* [GNU/Linux (Debian/Ubuntu 22.04) data](linux-pc-mitigations:docs/data/README)
+* [MacOS (Catalina) data](blue-macos:docs/data/README)
+* [Windows 10 data](blue-windows:docs/data/README)
+* [GNU/Linux (Debian/Ubuntu 22.04) data](blue-linux:docs/data/README)
 
 ## Phones
 
-* [Android (Galaxy 5,22,50) data](android-mitigations:docs/data/README)
-* [iOS (7-10) data](ios-mitigations:docs/data/README)
-
-## Related attack trees
-
-* [Enumeration](attack-trees:docs/enumeration/README)
-* [System](attack-trees:docs/system/README)
+* [Android (Galaxy 5,22,50) data](blue-android:docs/data/README)
+* [iOS (7-10) data](blue-ios:docs/data/README)

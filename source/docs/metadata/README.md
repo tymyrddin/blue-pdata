@@ -13,7 +13,7 @@ This type of metadata can be useful, but maybe you do not want to disclose this 
     * It can provide corroborating information about the document data itself.
     * It can reveal information that someone tried to hide, delete, or obscure.
     * It can be used to automatically correlate documents from different sources.
-* Metadata is used by hackers doing [reconnaissance](attack-trees:docs/reconnaissance/README) for an attack
+* Metadata is used by hackers doing reconnaissance for an attack
 * And last but not least, it can be used to correlate data in dragnet and targeted surveillance.
 
 ## Techniques for metadata removal
@@ -22,8 +22,3 @@ This type of metadata can be useful, but maybe you do not want to disclose this 
 * [BleachBit](bleachbit.md) cleans a lot more.
 * [Use a hex editor](hexeditors.md) for getting in the corners
 * [Edit exif metadata in images](metadata-images.md)
-
-## Related attack trees
-
-* [Reconnaissance](attack-trees:docs/reconnaissance/README)
-* [Deanonymisation Threat model](https://tymyrddin.github.io/da-threat-model/)

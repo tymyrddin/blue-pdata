@@ -21,8 +21,3 @@ or from un-requested sites (additionally compounded as drive-by downloads become
 ## Fail
 
 * [Am I FloCed?](aif.md)
-
-## Related attack trees
-
-* [Social engineering](attack-trees:docs/social-engineering/README)
-* [Malware](attack-trees:docs/malware/README)

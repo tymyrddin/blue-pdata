@@ -6,6 +6,6 @@ shutter setting details, and possibly even the name of the program used to edit 
 
 ## Workstations and PC's
 
-* [Edit exif metadata in images on Linux](linux-pc-mitigations:docs/privacy/metadata-images)
-* [Edit exif metadata in images on Windows](windows-pc-mitigations:docs/privacy/metadata-images)
-* [Edit exif metadata in images on macOS](macos-mitigations:docs/privacy/metadata-images)
+* [Edit exif metadata in images on Linux](blue-linux:docs/privacy/metadata-images)
+* [Edit exif metadata in images on Windows](blue-windows:docs/privacy/metadata-images)
+* [Edit exif metadata in images on macOS](blue-macos:docs/privacy/metadata-images)

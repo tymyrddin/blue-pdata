@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Data mitigations'
+project = 'Protecting personal data'
 copyright = '2022, TyMyrddin'
 author = 'TyMyrddin'
 
@@ -66,7 +66,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Data mitigations"
+html_title = "Protecting personal data"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
@@ -90,22 +90,11 @@ html_show_copyright = False
 
 # Intersphinx
 intersphinx_mapping = {
-    "attack-trees": ("https://tymyrddin.github.io/attack-trees/", None),
-    "cheatsheets": ("https://tymyrddin.github.io/cheatsheets/", None),
-    "e2ee-threat-model":("https://tymyrddin.github.io/e2ee-threat-model/", None),
-    "da-threat-model":("https://tymyrddin.github.io/da-threat-model/", None),
-    "se-threat-model":("https://tymyrddin.github.io/se-threat-model/", None),
-    "app-threat-model":("https://tymyrddin.github.io/app-threat-model/", None),
-    "cicd-threat-model":("https://tymyrddin.github.io/cicd-threat-model/", None),
-    "linux-pc-mitigations":("https://tymyrddin.github.io/linux-pc-mitigations/", None),
-    "linux-server-mitigations":("https://tymyrddin.github.io/linux-server-mitigations/", None),
-    "app-mitigations":("https://tymyrddin.github.io/app-mitigations/", None),
-    "webserver-mitigations":("https://tymyrddin.github.io/webserver-mitigations/", None),
-    "mailserver-mitigations":("https://tymyrddin.github.io/mailserver-mitigations/", None),
-    "network-mitigations":("https://tymyrddin.github.io/network-mitigations/", None),
-    "android-mitigations": ("https://tymyrddin.github.io/android-mitigations/", None),
-    "windows-pc-mitigations": ("https://tymyrddin.github.io/windows-pc-mitigations/", None),
-    "macos-mitigations": ("https://tymyrddin.github.io/macos-mitigations/", None),
-    "ios-mitigations": ("https://tymyrddin.github.io/ios-mitigations/", None),
+    "blue": ("https://tymyrddin.github.io/blue/", None),
+    "blue-windows": ("https://tymyrddin.github.io/blue-windows/", None),
+    "blue-macos": ("https://tymyrddin.github.io/blue-macos/", None),
+    "blue-linux": ("https://tymyrddin.github.io/blue-linux/", None),
+    "blue-android": ("https://tymyrddin.github.io/blue-android/", None),
+    "blue-ios": ("https://tymyrddin.github.io/blue-ios/", None),
 }
 myst_url_schemes = ["http", "https", ]

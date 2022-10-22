@@ -17,6 +17,6 @@ For example, when scrubbing pdf’s from creation and modification information l
 
 ## Workstations and PC's
 
-* [Linux: Remove metadata with hex editors](linux-pc-mitigations:docs/privacy/hexeditors)
-* [Windows: Remove metadata with hex editors](windows-pc-mitigations:docs/privacy/hexeditors)
-* [macOS: Remove metadata with hex editors](macos-mitigations:docs/privacy/hexeditors)
+* [Linux: Remove metadata with hex editors](blue-linux:docs/privacy/hexeditors)
+* [Windows: Remove metadata with hex editors](blue-windows:docs/privacy/hexeditors)
+* [macOS: Remove metadata with hex editors](blue-macos:docs/privacy/hexeditors)

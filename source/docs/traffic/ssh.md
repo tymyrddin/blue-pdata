@@ -13,14 +13,14 @@ SSH tunnels can be created in several ways using different kinds of port forward
 
 ## Workstations and PC's
 
-* [Linux: Use ssh tunnels](linux-pc-mitigations:docs/services/ssh)
-* [macOS: Use ssh tunnels](macos-mitigations:docs/services/ssh)
-* [Windows: Use ssh tunnels](windows-pc-mitigations:docs/services/ssh)
+* [Linux: Use ssh tunnels](blue-linux:docs/services/ssh)
+* [macOS: Use ssh tunnels](blue-macos:docs/services/ssh)
+* [Windows: Use ssh tunnels](blue-windows:docs/services/ssh)
 
 ## Phones
 
-* [Android: Use ssh tunnels](android-mitigations:docs/services/ssh)
-* [iOS: Use ssh tunnels](ios-mitigations:docs/services/ssh)
+* [Android: Use ssh tunnels](blue-android:docs/services/ssh)
+* [iOS: Use ssh tunnels](blue-ios:docs/services/ssh)
 
  
 

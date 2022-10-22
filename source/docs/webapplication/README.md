@@ -8,8 +8,3 @@ If you are running your own website or blog:
 * [Make your site GDPR compliant](gdpr.md)
 * [Secure file uploads from users](secure-file-uploads.md)
 
-## Related attack trees
-
-* [Database](attack-trees:docs/databases/README)
-* [Application](attack-trees:docs/application/README)
-* [Deanonymisation Threat model](https://tymyrddin.github.io/da-threat-model/)

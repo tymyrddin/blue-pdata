@@ -14,11 +14,11 @@ generate a valid address for you.
 
 ## Workstations and PC's
 
-* [Linux: Change MAC Address](linux-pc-mitigations:docs/services/change-mac)
-* [macOS: Change MAC Address](macos-mitigations:docs/services/change-mac)
-* [Windows: Change MAC Address](windows-pc-mitigations:docs/services/change-mac)
+* [Linux: Change MAC Address](blue-linux:docs/services/change-mac)
+* [macOS: Change MAC Address](blue-macos:docs/services/change-mac)
+* [Windows: Change MAC Address](blue-windows:docs/services/change-mac)
 
 ## Phones
 
-* [Android: Change MAC Address](android-mitigations:docs/services/change-mac)
-* [iOS: Change MAC Address](ios-mitigations:docs/services/change-mac)
+* [Android: Change MAC Address](blue-android:docs/services/change-mac)
+* [iOS: Change MAC Address](blue-ios:docs/services/change-mac)

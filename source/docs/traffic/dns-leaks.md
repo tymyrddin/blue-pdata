@@ -15,8 +15,8 @@ Using your ISP’s DNS servers as default DNS servers doesn’t do anything for 
 
 ## Workstations and PC's
 
-* [Linux: Use alternative DNS servers](linux-pc-mitigations:docs/services/dns-servers)
-* [Windows:Use alternative DNS servers](windows-pc-mitigations:docs/services/dns-servers)
-* [macOS: Use alternative DNS servers](macos-mitigations:docs/services/dns-servers)
+* [Linux: Use alternative DNS servers](blue-linux:docs/services/dns-servers)
+* [Windows:Use alternative DNS servers](blue-windows:docs/services/dns-servers)
+* [macOS: Use alternative DNS servers](blue-macos:docs/services/dns-servers)
 
 

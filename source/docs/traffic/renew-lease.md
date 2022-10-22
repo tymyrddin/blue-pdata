@@ -7,6 +7,6 @@ router.
 
 ## Workstations and PC's
 
-* [Linux: Renew IP lease](linux-pc-mitigations:docs/services/renew-lease)
-* [macOS: Renew IP lease](macos-mitigations:docs/services/renew-lease)
-* [Windows: Renew IP lease](windows-pc-mitigations:docs/services/renew-lease)
+* [Linux: Renew IP lease](blue-linux:docs/services/renew-lease)
+* [macOS: Renew IP lease](blue-macos:docs/services/renew-lease)
+* [Windows: Renew IP lease](blue-windows:docs/services/renew-lease)

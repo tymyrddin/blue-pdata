@@ -7,11 +7,11 @@ to add new entries to the hosts file, you’ll need the IP address of the server
 
 ## Workstations and PC's
 
-* [Linux: Edit hosts file](linux-pc-mitigations:docs/services/edit-hosts-file)
-* [macOS: Edit hosts file](macos-mitigations:docs/services/edit-hosts-file)
-* [Windows: Edit hosts file](windows-pc-mitigations:docs/services/edit-hosts-file)
+* [Linux: Edit hosts file](blue-linux:docs/services/edit-hosts-file)
+* [macOS: Edit hosts file](blue-macos:docs/services/edit-hosts-file)
+* [Windows: Edit hosts file](blue-windows:docs/services/edit-hosts-file)
 
 ## Phones
 
-* [Android: Edit hosts file](android-mitigations:docs/services/edit-hosts-file)
-* [iOS: Edit hosts file](ios-mitigations:docs/services/edit-hosts-file)
+* [Android: Edit hosts file](blue-android:docs/services/edit-hosts-file)
+* [iOS: Edit hosts file](blue-ios:docs/services/edit-hosts-file)
