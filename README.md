@@ -1,7 +1,7 @@
 # Personal data mitigations
 
-![Publish Data mitigations using Sphinx](https://github.com/tymyrddin/data-mitigations/workflows/Publish%20Data%20mitigations%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/data-mitigations/
+![Publish Data mitigations using Sphinx](https://github.com/tymyrddin/blue-pdata/workflows/Publish%20Data%20mitigations%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/blue-pdata/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,8 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/data-mitigations/issues)
+[Open an issue here](https://github.com/tymyrddin/blue-pdata/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+The point is that descriptive writing is very rarely entirely accurate and during the reign of Olaf Quimby II as Patrician of Ankh some legislation was passed in a determined attempt to put a stop to this sort of thing and introduce some honesty into reporting. Thus, if a legend said of a notable here that "all men spoke of his prowess" any bard who valued his life would add hastily "except for a couple of people in his home village who thought he was a liar, and quite a lot of other people who had never really heard of him." ~ (Terry Pratchett, The Light Fantastic)
