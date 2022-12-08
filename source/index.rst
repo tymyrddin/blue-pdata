@@ -112,4 +112,4 @@ The Internet is rife with adversaries that are after our identity and informatio
 .. toctree::
    :caption: Links
 
-   Blue Team <https://tymyrddin.github.io/blue/>
+   Blue Team <https://blue.tymyrddin.dev/>

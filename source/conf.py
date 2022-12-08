@@ -90,11 +90,11 @@ html_show_copyright = False
 
 # Intersphinx
 intersphinx_mapping = {
-    "blue": ("https://tymyrddin.github.io/blue/", None),
-    "blue-windows": ("https://tymyrddin.github.io/blue-windows/", None),
-    "blue-macos": ("https://tymyrddin.github.io/blue-macos/", None),
-    "blue-linux": ("https://tymyrddin.github.io/blue-linux/", None),
-    "blue-android": ("https://tymyrddin.github.io/blue-android/", None),
-    "blue-ios": ("https://tymyrddin.github.io/blue-ios/", None),
+    "blue": ("https://blue.tymyrddin.dev/", None),
+    "blue-windows": ("https://blue.tymyrddin.dev/projects/windows/", None),
+    "blue-macos": ("https://blue.tymyrddin.dev/projects/macos/", None),
+    "blue-linux": ("https://blue.tymyrddin.dev/projects/linux/", None),
+    "blue-android": ("https://blue.tymyrddin.dev/projects/android/", None),
+    "blue-ios": ("https://blue.tymyrddin.dev/projects/ios/", None),
 }
 myst_url_schemes = ["http", "https", ]
