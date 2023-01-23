@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Protecting personal data'
+project = 'Protecting PII'
 copyright = '2022, TyMyrddin'
 author = 'TyMyrddin'
 
@@ -66,7 +66,7 @@ html_theme_options = {
     'titles_only': False
 }
 
-html_title = "Protecting personal data"
+html_title = "Protecting PII"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 

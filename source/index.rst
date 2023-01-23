@@ -1,4 +1,4 @@
-Protecting personal data
+Protecting PII
 ============================================
 
 The Internet is rife with adversaries that are after our identity and information, and readily provides vulnerabilities that can be exploited for that. Some of the most common threats are software attacks, identity theft, theft of information, sabotage, information extortion, surveillance, censorship and data abuse for ever more profits and control. Many journalists, activists and researchers work have been exploited due to its vulnerable structure, sometimes with severe (life threatening) consequences.
