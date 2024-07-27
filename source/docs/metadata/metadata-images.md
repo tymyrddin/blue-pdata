@@ -6,6 +6,6 @@ shutter setting details, and possibly even the name of the program used to edit 
 
 ## Workstations and PC's
 
-* [Edit exif metadata in images on Linux](blue-linux:docs/privacy/metadata-images)
-* [Edit exif metadata in images on Windows](blue-windows:docs/privacy/metadata-images)
-* [Edit exif metadata in images on macOS](blue-macos:docs/privacy/metadata-images)
+* [Edit exif metadata in images on Linux](https://linux.tymyrddin.dev/docs/privacy/metadata-images)
+* [Edit exif metadata in images on Windows](https://windows.tymyrddin.dev/docs/privacy/metadata-images)
+* [Edit exif metadata in images on macOS](https://macos.tymyrddin.dev/docs/privacy/metadata-images)

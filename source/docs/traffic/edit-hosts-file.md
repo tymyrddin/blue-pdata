@@ -7,11 +7,11 @@ to add new entries to the hosts file, you’ll need the IP address of the server
 
 ## Workstations and PC's
 
-* [Linux: Edit hosts file](blue-linux:docs/services/edit-hosts-file)
-* [macOS: Edit hosts file](blue-macos:docs/services/edit-hosts-file)
-* [Windows: Edit hosts file](blue-windows:docs/services/edit-hosts-file)
+* [Linux: Edit hosts file](https://linux.tymyrddin.dev/docs/services/edit-hosts-file)
+* [macOS: Edit hosts file](https://macos.tymyrddin.dev/docs/services/edit-hosts-file)
+* [Windows: Edit hosts file](https://windows.tymyrddin.dev/docs/services/edit-hosts-file)
 
 ## Phones
 
-* [Android: Edit hosts file](blue-android:docs/services/edit-hosts-file)
-* [iOS: Edit hosts file](blue-ios:docs/services/edit-hosts-file)
+* [Android: Edit hosts file](https://android.tymyrddin.dev/docs/services/edit-hosts-file)
+* [iOS: Edit hosts file](https://ios.tymyrddin.dev/docs/services/edit-hosts-file)

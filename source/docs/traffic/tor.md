@@ -34,11 +34,11 @@ Pluggable transports are tools that Tor can use to disguise the traffic it sends
 
 ## Workstations and PC's
 
-* [Linux: Use a Tor proxy](blue-linux:docs/services/tor-proxy)
-* [macOS: Use a Tor proxy](blue-macos:docs/services/tor-proxy)
-* [Windows: Use a Tor proxy](blue-windows:docs/services/tor-proxy)
+* [Linux: Use a Tor proxy](https://linux.tymyrddin.dev/docs/services/tor-proxy)
+* [macOS: Use a Tor proxy](https://macos.tymyrddin.dev/docs/services/tor-proxy)
+* [Windows: Use a Tor proxy](https://windows.tymyrddin.dev/docs/services/tor-proxy)
 
 ## Phones
 
-* [Android: Use a Tor proxy](blue-android:docs/services/tor-proxy)
-* [iOS: Use a Tor proxy](blue-ios:docs/services/tor-proxy)
+* [Android: Use a Tor proxy](https://android.tymyrddin.dev/docs/services/tor-proxy)
+* [iOS: Use a Tor proxy](https://ios.tymyrddin.dev/docs/services/tor-proxy)

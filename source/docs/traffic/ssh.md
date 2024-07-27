@@ -13,14 +13,14 @@ SSH tunnels can be created in several ways using different kinds of port forward
 
 ## Workstations and PC's
 
-* [Linux: Use ssh tunnels](blue-linux:docs/services/ssh)
-* [macOS: Use ssh tunnels](blue-macos:docs/services/ssh)
-* [Windows: Use ssh tunnels](blue-windows:docs/services/ssh)
+* [Linux: Use ssh tunnels](https://linux.tymyrddin.dev/docs/services/ssh)
+* [macOS: Use ssh tunnels](https://macos.tymyrddin.dev/docs/services/ssh)
+* [Windows: Use ssh tunnels](https://windows.tymyrddin.dev/docs/services/ssh)
 
 ## Phones
 
-* [Android: Use ssh tunnels](blue-android:docs/services/ssh)
-* [iOS: Use ssh tunnels](blue-ios:docs/services/ssh)
+* [Android: Use ssh tunnels](https://android.tymyrddin.dev/docs/services/ssh)
+* [iOS: Use ssh tunnels](https://ios.tymyrddin.dev/docs/services/ssh)
 
  
 

@@ -15,11 +15,11 @@ Operating systems and applications can always be reinstalled, but your data is u
 
 ## Workstations and PC's
 
-* [MacOS (Catalina) data](blue-macos:docs/data/README)
-* [Windows 10 data](blue-windows:docs/data/README)
-* [GNU/Linux (Debian/Ubuntu 22.04) data](blue-linux:docs/data/README)
+* [MacOS (Catalina) data](https://macos.tymyrddin.dev/docs/data/README)
+* [Windows 10 data](https://windows.tymyrddin.dev/docs/data/README)
+* [GNU/Linux (Debian/Ubuntu 22.04) data](https://linux.tymyrddin.dev/docs/data/README)
 
 ## Phones
 
-* [Android (Galaxy 5,22,50) data](blue-android:docs/data/README)
-* [iOS (7-10) data](blue-ios:docs/data/README)
+* [Android (Galaxy 5,22,50) data](https://android.tymyrddin.dev/docs/data/README)
+* [iOS (7-10) data](https://ios.tymyrddin.dev/docs/data/README)

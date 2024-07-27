@@ -14,11 +14,11 @@ generate a valid address for you.
 
 ## Workstations and PC's
 
-* [Linux: Change MAC Address](blue-linux:docs/services/change-mac)
-* [macOS: Change MAC Address](blue-macos:docs/services/change-mac)
-* [Windows: Change MAC Address](blue-windows:docs/services/change-mac)
+* [Linux: Change MAC Address](https://linux.tymyrddin.dev/docs/services/change-mac)
+* [macOS: Change MAC Address](https://macos.tymyrddin.dev/docs/services/change-mac)
+* [Windows: Change MAC Address](https://windows.tymyrddin.dev/docs/services/change-mac)
 
 ## Phones
 
-* [Android: Change MAC Address](blue-android:docs/services/change-mac)
-* [iOS: Change MAC Address](blue-ios:docs/services/change-mac)
+* [Android: Change MAC Address](https://android.tymyrddin.dev/docs/services/change-mac)
+* [iOS: Change MAC Address](https://ios.tymyrddin.dev/docs/services/change-mac)
